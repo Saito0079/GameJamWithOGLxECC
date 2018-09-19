@@ -233,8 +233,8 @@ PlayerSettings:
   appleEnableAutomaticSigning: 0
   iOSRequireARKit: 0
   appleEnableProMotion: 0
-  clonedFromGUID: 56e7a2d3a00f33d44bdd161b773c35b5
-  templatePackageId: com.unity.template.3d@1.0.0
+  clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
+  templatePackageId: com.unity.3d@1.0.2
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0

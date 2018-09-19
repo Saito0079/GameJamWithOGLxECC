@@ -12,7 +12,8 @@ public class UILifeManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        // game scene test load
+        //Application.LoadLevelAdditive("GameScene");
     }
 
     // Update is called once per frame
