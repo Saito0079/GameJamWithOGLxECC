@@ -14,6 +14,9 @@ public class UIHpManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        // game scene test load
+        //Application.LoadLevelAdditive("GameScene");
+
         gameManager = GameObject.Find("GameManager");
     }
 

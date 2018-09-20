@@ -6,12 +6,13 @@ using UnityEngine.UI;
 public class UIScoreManager : MonoBehaviour
 {
     public GameObject moveUpObject;
-    public int score = 0;
-    public int plusScore = 0;
 
     GameObject gameManager;
     GameObject scoreObject;
     GameObject moveUpParent;
+    int score = 0;
+    int plusScore = 0;
+
     int doorPassed = 0;
 
     // Use this for initialization
